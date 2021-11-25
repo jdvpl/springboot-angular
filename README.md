@@ -9,4 +9,8 @@
 
 ### crear paquete
 
-* 
+* click derecho> new>package
+* ## obligatorio colocar el nombre del paquete `com.example.demo.rest`
+* Crear clase dentro del paquete nuevo `RestController`
+* colocar anotacion de getmapin  controller
+* Crear clase de cors para acceder desde postman
